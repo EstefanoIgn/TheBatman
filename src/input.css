@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import "tailwindcss";
+@theme{
+    /* PERSONALIZAMOS UNA FUENTE */
+    --font-primary: "Oswald", sans-serif;
+    /* PERSONALIZAMOS UN COLOR DE BACKGROUND */
+    --color-gotham-green: #94F7B5;
+    --color-gotham-blue: #2F71C2;
+}
